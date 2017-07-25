@@ -1,0 +1,23 @@
+{
+  "enterpriseCloudDataCenters": [
+    {
+      "id": "212312",
+      "name": "云数据中心1",
+      "AdminName": "李四",
+      "connact": "lis@yonyou.com",
+      "addTime": "20170724220552",
+      "state": "待授权"
+    },
+    {
+      "id": "23",
+      "name": "云数据中心1",
+      "AdminName": "李四",
+      "connact": "lis@yonyou.com",
+      "addTime": "20170724220552",
+      "state": "待授权"
+    }
+  ],
+  "totalElements": 1,
+  "status": 1,
+  "code": "0"
+}

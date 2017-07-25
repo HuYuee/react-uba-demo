@@ -1,0 +1,19 @@
+.manage-list {
+  padding-top: 16px;
+  padding-left: 24px;
+}
+.manage-list > .manage-title {
+  margin-bottom: 11px;
+}
+.manage-title > h1 {
+  display: inline-block;
+  font-size: 17px;
+  color: #333333;
+  font-weight: normal;
+  margin: 0;
+}
+.manage-title > .title-btn {
+  /* background:#00b39e; */
+  border-radius: 4px;
+  margin-left: 22px;
+}

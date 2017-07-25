@@ -1,0 +1,33 @@
+{
+  "enterpriseAdmins": [
+    {
+      "id": "cfd041e6-2a8d-4bef-9c71-0dadba1e0ff4",
+      "enterId": "cfd041e6-2a8d-4bef-9c71-0d123a1e0ff4",
+      "adminId": "cfd041e6-2a8d-4bef-9c71-0dadba1e1234",
+      "addTime": "20170724220552",
+      "adminName": "李三",
+      "department": "部门1",
+      "position": "经理",
+      "connact": "lis@yonyou.com",
+      "state": "未激活",
+      "pemissions": "创建者",
+      "creditCode": null
+    },
+    {
+      "id": "cfd041e6-2a8d-4bef-9c71-0dadba1e0ff1",
+      "enterId": "cfd041e6-2a8d-4bef-9c71-0d123a1e0ff4",
+      "adminId": "cfd041e6-2a8d-4bef-9c71-0dadba1e1234",
+      "addTime": "20170724200000",
+      "adminName": "王五",
+      "department": "部门2",
+      "position": "屌丝",
+      "connact": "wangwu@yonyou.com",
+      "state": "激活",
+      "pemissions": "创建者",
+      "creditCode": null
+    }
+  ],
+  "totalElements": 2,
+  "status": 1,
+  "code": "0"
+}

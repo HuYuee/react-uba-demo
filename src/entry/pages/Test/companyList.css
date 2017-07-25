@@ -1,0 +1,73 @@
+.list-content {
+  /* overflow: hidden; */
+}
+.list-content > a.tile-content {
+  text-align: center;
+}
+.list-content > .tile-content {
+  padding-left: 108px;
+  float: left;
+  width: 23%;
+  height: 155px;
+  margin: 0 1%;
+  box-sizing: border-box;
+}
+
+.list-content > a.tile-content {
+  padding-left: 24px;
+  background: #fbfbfb;
+  border: 1px dashed #999999;
+  border-radius: 4px;
+}
+.list-content > .tile-content > .logo {
+  position: absolute;
+  top: 25px;
+  left: 24px;
+  width: 60px;
+  height: 60px;
+}
+.list-content > a.tile-content > .uf-plus {
+  font-size: 50px;
+}
+.list-content > a.tile-content > p {
+  font-size: 12px;
+  color: #333333;
+  line-height: 18px;
+  text-align: center;
+}
+.tile-content > .content-title > h5 {
+  display: inline-block;
+  margin: 0;
+  margin-bottom: 15px;
+  font-weight: normal;
+  font-size: 14px;
+  color: #333333;
+}
+.content-title > .title-badge {
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 1px 6px;
+  margin-left: 10px;
+}
+.content-title > .title-badge.process {
+  color: #2da0f3;
+  background: #edf8ff;
+  border: 1px solid #2da0f3;
+}
+.content-title > .title-badge.disabled {
+  background: #f7f7f7;
+  border: 1px solid #d9d9d9;
+  color: rgba(0, 0, 0, 0.25);
+}
+.content-title > .title-badge.able {
+  background: rgba(220, 255, 249, 0.36);
+  border: 1px solid #00b39e;
+  color: #00b39e;
+}
+.tile-content > p {
+  margin: 0;
+}
+.tile-content > button {
+  margin-top: 25px;
+}
