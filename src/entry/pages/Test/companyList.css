@@ -9,6 +9,7 @@
   padding-left: 108px;
   float: left;
   width: 23%;
+  min-width: 285px;
   height: 155px;
   margin: 0 1%;
   box-sizing: border-box;
