@@ -1,5 +1,6 @@
 .list-content {
-  /* overflow: hidden; */
+  overflow: hidden;
+  padding-top: 2px;
 }
 .list-content > a.tile-content {
   text-align: center;
@@ -11,6 +12,8 @@
   height: 155px;
   margin: 0 1%;
   box-sizing: border-box;
+  margin-bottom: 22px;
+  cursor: pointer;
 }
 
 .list-content > a.tile-content {
@@ -25,6 +28,12 @@
   left: 24px;
   width: 60px;
   height: 60px;
+  border-radius: 100%;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  /* border: 1px solid gainsboro; */
+  background-color: gainsboro;
+  display: inline-block;
 }
 .list-content > a.tile-content > .uf-plus {
   font-size: 50px;
